@@ -1,0 +1,4 @@
+.vagrant
+prepare-acs.sh
+ansible-test
+*.log
